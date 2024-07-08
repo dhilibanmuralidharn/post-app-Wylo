@@ -48,7 +48,7 @@ const CreatePost = () => {
         })
       );
       setSubmitting(false);
-      navigate("/");
+      navigate("/posts");
     }
   };
 
