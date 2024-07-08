@@ -1,0 +1,13 @@
+.search-constainer{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    padding: 4px 10px;
+    border: 1px solid gray;
+    width: 500px;
+    border-radius: 8px;
+}
+.input{
+    outline: none;
+    padding: 5px;
+}
